@@ -5,4 +5,6 @@ z = int(input("Enter the value of Z: "))
 a = x+ y+ z
 # Display all values on screen
 print("\n")
-print("SUM",a)
+
+with open('lab005.txt','w') as file:
+    print("SUM",a, sep=' :-->',file=file,flush=True)
