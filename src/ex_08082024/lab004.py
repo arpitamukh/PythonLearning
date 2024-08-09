@@ -10,8 +10,5 @@ print("Hello", "world", 123, sep='---')
 print("Hello", "world", 123, end='!!!\n')
 
 # Example 4: The output is written to a file named "output.txt"instead of the console.
-with open('output.txt','w') as file:
-    print("Hello", "world", 1234, sep='---', end='!', file=file,flush=True)
-
-# Example 5: Forcibly flushing the output
-print("Hello", "world", 123, flush=True)
+with open('outputlab004.txt','w') as file:
+    print("Hello", "world", "for", "printing" ,"the" ,"output", "of" ,"lab004", "program", "in","seperate", "file", sep='---', end='!', file=file,flush=True)
