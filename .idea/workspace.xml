@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c303dcb1-a7c8-400c-a8aa-94f71abc535e" name="Changes" comment="Lab005 commited">
-      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab007_Calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab008_Calculator_HW.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab009_table_HW.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_08082024/lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08082024/lab001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_08082024/lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08082024/lab002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_08082024/lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08082024/lab005.py" afterDir="false" />
-    </list>
+    <list default="true" id="c303dcb1-a7c8-400c-a8aa-94f71abc535e" name="Changes" comment="calcuator_arpita" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,8 +62,8 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.lab009_table_HW">
-    <configuration name="lab006" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.lab005">
+    <configuration name="lab005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08082024/lab006.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08082024/lab005.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lab005" />
         <item itemvalue="Python.lab009_table_HW" />
         <item itemvalue="Python.lab008_Calculator_HW (1)" />
         <item itemvalue="Python.lab008_Calculator_HW" />
         <item itemvalue="Python.lab007_Calculator" />
-        <item itemvalue="Python.lab006" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +239,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723201569519</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="lab009_table_HW _arpita">
+      <option name="closed" value="true" />
+      <created>1723554702564</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723554702564</updated>
+    </task>
+    <task id="LOCAL-00007" summary="calcuator_arpita">
+      <option name="closed" value="true" />
+      <created>1723554882284</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723554882284</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -256,6 +263,8 @@
     <MESSAGE value="Lab003 commited" />
     <MESSAGE value="Lab004 commited" />
     <MESSAGE value="Lab005 commited" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab005 commited" />
+    <MESSAGE value="lab009_table_HW _arpita" />
+    <MESSAGE value="calcuator_arpita" />
+    <option name="LAST_COMMIT_MESSAGE" value="calcuator_arpita" />
   </component>
 </project>
