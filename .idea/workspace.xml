@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c303dcb1-a7c8-400c-a8aa-94f71abc535e" name="Changes" comment="lab005">
+    <list default="true" id="c303dcb1-a7c8-400c-a8aa-94f71abc535e" name="Changes" comment="lab010">
+      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab011_Str Length.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08082024/tab012_ternary Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/lab013_task3_HW.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/lab014_taks4_HW.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/lab015_task5_HW.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_08082024/lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08082024/lab006.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,24 +54,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab002.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.lab003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab008_Arithmetic solution.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab008_Calculator_HW (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab009_table_HW.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.lab001.executor": "Run",
+    "Python.lab002.executor": "Debug",
+    "Python.lab003.executor": "Run",
+    "Python.lab004.executor": "Run",
+    "Python.lab005.executor": "Run",
+    "Python.lab006.executor": "Run",
+    "Python.lab007.executor": "Run",
+    "Python.lab008_Arithmetic solution.executor": "Run",
+    "Python.lab008_Calculator_HW (1).executor": "Run",
+    "Python.lab009_table_HW.executor": "Run",
+    "Python.lab010_raw string.executor": "Run",
+    "Python.lab011_Str Length.executor": "Run",
+    "Python.lab013_task3_HW.executor": "Run",
+    "Python.lab014_taks4_HW.executor": "Run",
+    "Python.lab015_task5_HW.executor": "Run",
+    "Python.tab012_ternary Operator.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
-  <component name="RunManager" selected="Python.lab005">
-    <configuration name="lab005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.lab013_task3_HW">
+    <configuration name="lab006" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,7 +90,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08082024/lab005.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08082024/lab006.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab007_Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab013_task3_HW" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,11 +108,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\arpitamukherjee\PycharmProjects\PythonLearning\src\ex_08082024\lab007_Calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17082024/lab013_task3_HW.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab008_Calculator_HW (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab014_taks4_HW" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,11 +130,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08082024/lab008_Calculator_HW.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17082024/lab014_taks4_HW.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab008_Calculator_HW" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab015_task5_HW" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\arpitamukherjee\PycharmProjects\PythonLearning\src\ex_08082024\lab008_Calculator_HW.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17082024/lab015_task5_HW.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab009_table_HW" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tab012_ternary Operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,7 +178,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08082024/lab009_table_HW.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08082024/tab012_ternary Operator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lab005" />
-        <item itemvalue="Python.lab009_table_HW" />
-        <item itemvalue="Python.lab008_Calculator_HW (1)" />
-        <item itemvalue="Python.lab008_Calculator_HW" />
-        <item itemvalue="Python.lab007_Calculator" />
+        <item itemvalue="Python.lab013_task3_HW" />
+        <item itemvalue="Python.lab015_task5_HW" />
+        <item itemvalue="Python.lab014_taks4_HW" />
+        <item itemvalue="Python.tab012_ternary Operator" />
+        <item itemvalue="Python.lab006" />
       </list>
     </recent_temporary>
   </component>
@@ -265,8 +277,35 @@
       <option name="project" value="LOCAL" />
       <updated>1723555068423</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="lab005">
+      <option name="closed" value="true" />
+      <created>1724046471746</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724046471746</updated>
+    </task>
+    <task id="LOCAL-00010" summary="lab010">
+      <option name="closed" value="true" />
+      <created>1724050782532</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724050782532</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab002 commited" />
@@ -276,6 +315,7 @@
     <MESSAGE value="lab009_table_HW _arpita" />
     <MESSAGE value="calcuator_arpita" />
     <MESSAGE value="lab005" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab005" />
+    <MESSAGE value="lab010" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab010" />
   </component>
 </project>

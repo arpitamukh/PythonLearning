@@ -11,7 +11,7 @@ sum = sum + 10
 #variable should be store in variable
 sum = sum + 10
 
-print("sum of the three numbers", sum)
+print("sum of the three numbers", f"{sum:.4f}")
 formatted_number = f"{y:.4f}"
 print("formatted number : ", formatted_number)
 
