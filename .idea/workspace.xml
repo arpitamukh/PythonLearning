@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c303dcb1-a7c8-400c-a8aa-94f71abc535e" name="Changes" comment="calcuator_arpita" />
+    <list default="true" id="c303dcb1-a7c8-400c-a8aa-94f71abc535e" name="Changes" comment="lab005">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,22 +48,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.lab001.executor": "Run",
-    "Python.lab002.executor": "Debug",
-    "Python.lab003.executor": "Run",
-    "Python.lab004.executor": "Run",
-    "Python.lab005.executor": "Run",
-    "Python.lab006.executor": "Run",
-    "Python.lab007.executor": "Run",
-    "Python.lab008_Arithmetic solution.executor": "Run",
-    "Python.lab008_Calculator_HW (1).executor": "Run",
-    "Python.lab009_table_HW.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab002.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab008_Arithmetic solution.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab008_Calculator_HW (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab009_table_HW.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.lab005">
     <configuration name="lab005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
@@ -255,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723554882284</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="lab005">
+      <option name="closed" value="true" />
+      <created>1723555068423</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723555068423</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -265,6 +275,7 @@
     <MESSAGE value="Lab005 commited" />
     <MESSAGE value="lab009_table_HW _arpita" />
     <MESSAGE value="calcuator_arpita" />
-    <option name="LAST_COMMIT_MESSAGE" value="calcuator_arpita" />
+    <MESSAGE value="lab005" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab005" />
   </component>
 </project>
