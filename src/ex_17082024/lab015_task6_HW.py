@@ -3,16 +3,17 @@
 
 x = float(input("enter the value for x:"))
 y = float(input("enter the value for y:"))
+z = float(input("enter the value for z:"))
 
 # x = input("enter the value for x:")
 # y = input("enter the value for y:")
-if x < y:
-    print(f"value of x-->{x} is less than value of y-->{y}")
-elif x > y:
+if x < y and x < z:
+    print(f"value of x-->{x} is less than value of y-->{y} and value of z-->{z}")
+elif x > y and x > z:
     print(f"value of x-->{x} is greater than value of y-->{y}")
+
 else:
     print(f"value of x-->{x} is equal to value of y-->{y}")
-
 
 '''
 OUTPUT :

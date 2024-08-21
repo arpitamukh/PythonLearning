@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c303dcb1-a7c8-400c-a8aa-94f71abc535e" name="Changes" comment="lab010">
-      <change afterPath="$PROJECT_DIR$/src/ex_08082024/lab011_Str Length.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08082024/tab012_ternary Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/lab013_task3_HW.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/lab014_taks4_HW.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/lab015_task5_HW.py" afterDir="false" />
+    <list default="true" id="c303dcb1-a7c8-400c-a8aa-94f71abc535e" name="Changes" comment="assignment solution">
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/lab015_task6_HW.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/lab017_gradeCal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab018_leapyear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab019_traiangle classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab020_FizzBuzz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_08082024/lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08082024/lab006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17082024/lab015_task5_HW.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17082024/lab015_task5_HW.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/ex_08082024/lab004.py" root0="SKIP_HIGHLIGHTING" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -71,35 +74,24 @@
     "Python.lab013_task3_HW.executor": "Run",
     "Python.lab014_taks4_HW.executor": "Run",
     "Python.lab015_task5_HW.executor": "Run",
+    "Python.lab015_task6_HW.executor": "Run",
+    "Python.lab017_gradeCal.executor": "Debug",
+    "Python.lab018_leapyear.executor": "Run",
+    "Python.lab019_traiangle classifier.executor": "Run",
+    "Python.lab020_FizzBuzz.executor": "Run",
     "Python.tab012_ternary Operator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/arpitamukherjee/PycharmProjects/PythonLearning/src/ex_17082024"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.lab013_task3_HW">
-    <configuration name="lab006" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08082024/lab006.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lab013_task3_HW" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\arpitamukherjee\PycharmProjects\PythonLearning\src\ex_17082024" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.lab020_FizzBuzz">
+    <configuration name="lab015_task6_HW" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,7 +104,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17082024/lab013_task3_HW.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17082024/lab015_task6_HW.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab014_taks4_HW" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab017_gradeCal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,7 +126,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17082024/lab014_taks4_HW.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17082024/lab017_gradeCal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab015_task5_HW" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab018_leapyear" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_20082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17082024/lab015_task5_HW.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_20082024/lab018_leapyear.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tab012_ternary Operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab019_traiangle classifier" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,11 +166,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_08082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_20082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_08082024/tab012_ternary Operator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_20082024/lab019_traiangle classifier.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab020_FizzBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_20082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_20082024/lab020_FizzBuzz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lab013_task3_HW" />
-        <item itemvalue="Python.lab015_task5_HW" />
-        <item itemvalue="Python.lab014_taks4_HW" />
-        <item itemvalue="Python.tab012_ternary Operator" />
-        <item itemvalue="Python.lab006" />
+        <item itemvalue="Python.lab020_FizzBuzz" />
+        <item itemvalue="Python.lab018_leapyear" />
+        <item itemvalue="Python.lab019_traiangle classifier" />
+        <item itemvalue="Python.lab017_gradeCal" />
+        <item itemvalue="Python.lab015_task6_HW" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +307,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724050782532</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="assignment solution">
+      <option name="closed" value="true" />
+      <created>1724067207049</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724067207049</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,6 +338,7 @@
     <MESSAGE value="calcuator_arpita" />
     <MESSAGE value="lab005" />
     <MESSAGE value="lab010" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab010" />
+    <MESSAGE value="assignment solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment solution" />
   </component>
 </project>
