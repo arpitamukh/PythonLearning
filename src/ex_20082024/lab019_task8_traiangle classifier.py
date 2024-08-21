@@ -37,7 +37,10 @@ Enter length of triangle of one side(S3) :23
 The triangle is scalene
 
 
-
+Enter length of triangle of one side(S1) :12
+Enter length of triangle of one side(S2) :12
+Enter length of triangle of one side(S3) :14
+The triangle is isosceles
 
 
 
