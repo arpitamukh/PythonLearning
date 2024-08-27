@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c303dcb1-a7c8-400c-a8aa-94f71abc535e" name="Changes" comment="assignment solution">
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab023_whileloop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab024_BREAKtest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab21_fibinacciSeries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab22_FORlooptest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab025_passkeytest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab026_passkeytest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab027_continueStatement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab028_matchcase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab029_table_for loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab030_evenno_reverOrder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab031_task10_Factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/practice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20082024/lab024_BREAKtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20082024/lab024_BREAKtest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,8 +84,16 @@
     "Python.lab020_FizzBuzz.executor": "Run",
     "Python.lab023_whileloop.executor": "Run",
     "Python.lab024_BREAKtest.executor": "Run",
+    "Python.lab025_passkeytest.executor": "Run",
+    "Python.lab026_passkeytest.executor": "Run",
+    "Python.lab027_continueStatement.executor": "Run",
+    "Python.lab028_matchcase.executor": "Run",
+    "Python.lab029_table_for loop.executor": "Run",
+    "Python.lab030_evenno_reverOrder.executor": "Run",
+    "Python.lab031_task10_Factorial.executor": "Run",
     "Python.lab21_fibinacciSeries.executor": "Run",
     "Python.lab22_looptest.executor": "Run",
+    "Python.practice.executor": "Run",
     "Python.tab012_ternary Operator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -92,8 +105,8 @@
       <recent name="C:\Users\arpitamukherjee\PycharmProjects\PythonLearning\src\ex_17082024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lab024_BREAKtest">
-    <configuration name="lab019_task8_traiangle classifier" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.lab031_task10_Factorial">
+    <configuration name="lab028_matchcase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,7 +119,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\arpitamukherjee\PycharmProjects\PythonLearning\src\ex_20082024\lab019_task8_traiangle classifier.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_20082024/lab028_matchcase.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,26 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab023_whileloop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_20082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_20082024/lab023_whileloop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lab024_BREAKtest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab029_table_for loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_20082024/lab024_BREAKtest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_20082024/lab029_table_for loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab21_fibinacciSeries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab030_evenno_reverOrder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,7 +163,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_20082024/lab21_fibinacciSeries.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_20082024/lab030_evenno_reverOrder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab22_FORlooptest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab031_task10_Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,7 +185,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\arpitamukherjee\PycharmProjects\PythonLearning\src\ex_20082024\lab22_FORlooptest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_20082024/lab031_task10_Factorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_20082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_20082024/practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lab024_BREAKtest" />
-        <item itemvalue="Python.lab21_fibinacciSeries" />
-        <item itemvalue="Python.lab023_whileloop" />
-        <item itemvalue="Python.lab22_FORlooptest" />
-        <item itemvalue="Python.lab019_task8_traiangle classifier" />
+        <item itemvalue="Python.lab031_task10_Factorial" />
+        <item itemvalue="Python.lab030_evenno_reverOrder" />
+        <item itemvalue="Python.lab029_table_for loop" />
+        <item itemvalue="Python.practice" />
+        <item itemvalue="Python.lab028_matchcase" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +346,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724259249246</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="assignment solution">
+      <option name="closed" value="true" />
+      <created>1724749946636</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1724749946636</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
