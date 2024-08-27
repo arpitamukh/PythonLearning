@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c303dcb1-a7c8-400c-a8aa-94f71abc535e" name="Changes" comment="assignment solution">
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab025_passkeytest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab026_passkeytest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab027_continueStatement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab028_matchcase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab029_table_for loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab030_evenno_reverOrder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/lab031_task10_Factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_20082024/lab024_BREAKtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20082024/lab024_BREAKtest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20082024/lab031_task10_Factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20082024/lab031_task10_Factorial.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +75,7 @@
     "Python.lab018_leapyear.executor": "Run",
     "Python.lab019_traiangle classifier.executor": "Run",
     "Python.lab020_FizzBuzz.executor": "Run",
+    "Python.lab020_task9_FizzBuzz.executor": "Run",
     "Python.lab023_whileloop.executor": "Run",
     "Python.lab024_BREAKtest.executor": "Run",
     "Python.lab025_passkeytest.executor": "Run",
@@ -106,7 +100,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.lab031_task10_Factorial">
-    <configuration name="lab028_matchcase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lab020_task9_FizzBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,7 +113,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_20082024/lab028_matchcase.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_20082024/lab020_task9_FizzBuzz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,10 +213,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.lab031_task10_Factorial" />
+        <item itemvalue="Python.lab020_task9_FizzBuzz" />
         <item itemvalue="Python.lab030_evenno_reverOrder" />
         <item itemvalue="Python.lab029_table_for loop" />
         <item itemvalue="Python.practice" />
-        <item itemvalue="Python.lab028_matchcase" />
       </list>
     </recent_temporary>
   </component>
@@ -354,7 +348,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724749946636</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="assignment solution">
+      <option name="closed" value="true" />
+      <created>1724755668919</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1724755668919</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
